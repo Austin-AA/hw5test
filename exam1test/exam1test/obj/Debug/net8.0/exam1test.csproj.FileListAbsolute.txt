@@ -1,0 +1,14 @@
+C:\Users\andya\source\repos\exam1test\exam1test\bin\Debug\net8.0\exam1test.exe
+C:\Users\andya\source\repos\exam1test\exam1test\bin\Debug\net8.0\exam1test.deps.json
+C:\Users\andya\source\repos\exam1test\exam1test\bin\Debug\net8.0\exam1test.runtimeconfig.json
+C:\Users\andya\source\repos\exam1test\exam1test\bin\Debug\net8.0\exam1test.dll
+C:\Users\andya\source\repos\exam1test\exam1test\bin\Debug\net8.0\exam1test.pdb
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\exam1test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\exam1test.AssemblyInfoInputs.cache
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\exam1test.AssemblyInfo.cs
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\exam1test.csproj.CoreCompileInputs.cache
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\exam1test.dll
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\refint\exam1test.dll
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\exam1test.pdb
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\exam1test.genruntimeconfig.cache
+C:\Users\andya\source\repos\exam1test\exam1test\obj\Debug\net8.0\ref\exam1test.dll
